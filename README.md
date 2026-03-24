@@ -52,7 +52,7 @@ This project focuses on building an end-to-end machine learning pipeline to pred
 
 
 ## Project 2: AI based Pollution Source Identifier
-> **Role:** Technical Mentor | **Tech Stack:** Python, Scikit-Learn, Pandas, SHAP, Streamlit
+> **Role:** Technical Mentor | **Tech Stack:** Python, Scikit-Learn, Pandas, SHAP, Streamlit, API
 
 ### Overview
 An advanced environmental monitoring system that integrates multi-source API data to identify and visualize pollution origins. As a mentor, I oversaw the data curation, data cleaning and integration of geospatial libraries and the development of a heuristic-based labeling system for source classification.
