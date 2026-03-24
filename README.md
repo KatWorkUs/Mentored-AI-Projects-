@@ -3,7 +3,6 @@ A curated collection of projects I mentored during my SDE internship, highlighti
 
 # Project 1
 Milestone 1 
-
 Week 1: Project Setup & Dataset Understanding o Load data, explore feature distribution, map locations.
 
 Week 2: Preprocessing & Feature Engineering o Handle missing values, normalize and create new features.
