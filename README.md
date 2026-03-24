@@ -52,8 +52,5 @@ This project focuses on building an end-to-end machine learning pipeline to pred
 
 ---
 
-## Repository Structure
-```text
-├──
 
 
