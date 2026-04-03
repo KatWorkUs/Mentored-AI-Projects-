@@ -6,7 +6,7 @@ from streamlit_folium import st_folium
 from util import severity_label, log_transform1
 import joblib
 
-st.set_page_config(layout="wide", page_title="Pollution Source Identifier")
+st.set_page_config(layout="wide", page_title="Earthquake Impact Prediction")
 st.title("Earthquake Prediction Dashboard")
 
 df = pd.read_csv('earthquake_1995-2023.csv')
